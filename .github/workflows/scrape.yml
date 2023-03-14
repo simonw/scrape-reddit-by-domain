@@ -1,0 +1,34 @@
+name: Scrape Reddit
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+  - cron:  '21 * * * *'
+
+env:
+  USER_AGENT: 'User-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36'
+
+jobs:
+  shot-scraper:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Scrape
+      run: |
+        curl -H $USER_AGENT \
+          'https://www.reddit.com/search/.json?q=site%3Asimonwillison.net&sort=new' \
+          | jq > simonwillison-net.json
+        sleep 2
+        curl -H $USER_AGENT \
+          'https://www.reddit.com/search/.json?q=site%3Adatasette.io&sort=new' \
+          | jq > datasette-io.json
+    - name: Commit and push
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "${timestamp}" || exit 0
+        git pull --rebase
+        git push
