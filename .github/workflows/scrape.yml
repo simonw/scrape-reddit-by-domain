@@ -6,11 +6,14 @@ on:
   schedule:
   - cron:  '21 * * * *'
 
+permissions:
+  contents: write
+
 env:
   USER_AGENT: 'User-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36'
 
 jobs:
-  shot-scraper:
+  scraper:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
