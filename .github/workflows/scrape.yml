@@ -35,3 +35,8 @@ jobs:
         git commit -m "${timestamp}" || exit 0
         git pull --rebase
         git push
+    - name: Submit latest to Datasette Cloud
+      env:
+        DS_TOKEN: ${{ secrets.DS_TOKEN }}
+      run: |-
+        ./submit-to-datasette-cloud.sh
