@@ -862,10 +862,10 @@
           "name": "t3_wton6w",
           "quarantine": false,
           "link_flair_text_color": "dark",
-          "upvote_ratio": 0.9,
+          "upvote_ratio": 0.89,
           "author_flair_background_color": null,
           "subreddit_type": "public",
-          "ups": 8,
+          "ups": 7,
           "total_awards_received": 0,
           "media_embed": {},
           "thumbnail_width": null,
@@ -879,7 +879,7 @@
           "secure_media_embed": {},
           "link_flair_text": "SQLite",
           "can_mod_post": false,
-          "score": 8,
+          "score": 7,
           "approved_by": null,
           "is_created_from_ads_ui": false,
           "author_premium": false,
@@ -944,7 +944,7 @@
           "parent_whitelist_status": "all_ads",
           "stickied": false,
           "url": "https://scotrail.datasette.io/scotrail/random_apology?_show_sql=1",
-          "subreddit_subscribers": 143751,
+          "subreddit_subscribers": 143757,
           "created_utc": 1661050113,
           "num_crossposts": 0,
           "media": null,
@@ -975,9 +975,9 @@
           "name": "t3_wdr0yb",
           "quarantine": false,
           "link_flair_text_color": "dark",
-          "upvote_ratio": 0.83,
+          "upvote_ratio": 0.8,
           "author_flair_background_color": null,
-          "ups": 4,
+          "ups": 3,
           "total_awards_received": 0,
           "media_embed": {},
           "thumbnail_width": 140,
@@ -991,7 +991,7 @@
           "secure_media_embed": {},
           "link_flair_text": "Tooling",
           "can_mod_post": false,
-          "score": 4,
+          "score": 3,
           "approved_by": null,
           "is_created_from_ads_ui": false,
           "author_premium": false,
@@ -1104,7 +1104,7 @@
           "parent_whitelist_status": "all_ads",
           "stickied": false,
           "url": "https://datasette.io/tutorials/clean-data",
-          "subreddit_subscribers": 858562,
+          "subreddit_subscribers": 858579,
           "created_utc": 1659384332,
           "num_crossposts": 0,
           "media": null,
@@ -1247,9 +1247,9 @@
           "name": "t3_t33ly3",
           "quarantine": false,
           "link_flair_text_color": "dark",
-          "upvote_ratio": 0.9,
+          "upvote_ratio": 0.95,
           "author_flair_background_color": null,
-          "ups": 29,
+          "ups": 33,
           "total_awards_received": 0,
           "media_embed": {},
           "thumbnail_width": 140,
@@ -1263,7 +1263,7 @@
           "secure_media_embed": {},
           "link_flair_text": "SQLite",
           "can_mod_post": false,
-          "score": 29,
+          "score": 33,
           "approved_by": null,
           "is_created_from_ads_ui": false,
           "author_premium": false,
@@ -1371,7 +1371,7 @@
           "parent_whitelist_status": "all_ads",
           "stickied": false,
           "url": "https://datasette.io/tutorials/learn-sql",
-          "subreddit_subscribers": 143751,
+          "subreddit_subscribers": 143757,
           "created_utc": 1646012579,
           "num_crossposts": 0,
           "media": null,
@@ -1483,7 +1483,7 @@
           "parent_whitelist_status": "all_ads",
           "stickied": false,
           "url": "https://sqlite-utils.datasette.io/en/stable/index.html",
-          "subreddit_subscribers": 5277544,
+          "subreddit_subscribers": 5277698,
           "created_utc": 1645729284,
           "num_crossposts": 0,
           "media": null,
@@ -2017,6 +2017,7 @@
           "author_flair_css_class": null,
           "author_flair_richtext": [],
           "gildings": {},
+          "post_hint": "link",
           "content_categories": null,
           "is_self": false,
           "mod_note": null,
@@ -2037,7 +2038,7 @@
               "pwls": null,
               "link_flair_css_class": null,
               "downs": 0,
-              "thumbnail_height": 83,
+              "thumbnail_height": 73,
               "top_awarded_type": null,
               "hide_score": false,
               "name": "t3_kbjxy6",
@@ -2064,11 +2065,12 @@
               "approved_by": null,
               "is_created_from_ads_ui": false,
               "author_premium": false,
-              "thumbnail": "https://b.thumbs.redditmedia.com/b_f_2Renj9rbxLMBTBeevp1fCcC7FIXn-vqTaJwE5MI.jpg",
+              "thumbnail": "https://a.thumbs.redditmedia.com/WpDG5ykEthDjFb5KpZY2P2pqea0OZdRMsHtprkxNes4.jpg",
               "edited": false,
               "author_flair_css_class": null,
               "author_flair_richtext": [],
               "gildings": {},
+              "post_hint": "link",
               "content_categories": null,
               "is_self": false,
               "mod_note": null,
@@ -2091,6 +2093,52 @@
               "is_crosspostable": false,
               "pinned": false,
               "over_18": false,
+              "preview": {
+                "images": [
+                  {
+                    "source": {
+                      "url": "https://external-preview.redd.it/TrY2--JR6Ec-T-HD_goWuS8aV6_QsvKFhwGHMSLJsI8.jpg?auto=webp&amp;v=enabled&amp;s=6eea5ca1e18e4d366f903635fae72348ca888c0a",
+                      "width": 1200,
+                      "height": 630
+                    },
+                    "resolutions": [
+                      {
+                        "url": "https://external-preview.redd.it/TrY2--JR6Ec-T-HD_goWuS8aV6_QsvKFhwGHMSLJsI8.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=33057ad83479d50e225808a3cce824512f29c5a5",
+                        "width": 108,
+                        "height": 56
+                      },
+                      {
+                        "url": "https://external-preview.redd.it/TrY2--JR6Ec-T-HD_goWuS8aV6_QsvKFhwGHMSLJsI8.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=480ad2aacc5f85c9d051275d88e0e7e00b643b46",
+                        "width": 216,
+                        "height": 113
+                      },
+                      {
+                        "url": "https://external-preview.redd.it/TrY2--JR6Ec-T-HD_goWuS8aV6_QsvKFhwGHMSLJsI8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=cf927e620704115867f597f3c119313961884ba2",
+                        "width": 320,
+                        "height": 168
+                      },
+                      {
+                        "url": "https://external-preview.redd.it/TrY2--JR6Ec-T-HD_goWuS8aV6_QsvKFhwGHMSLJsI8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=46c815f2d5665099cba7936a8b4f363c6f3a370e",
+                        "width": 640,
+                        "height": 336
+                      },
+                      {
+                        "url": "https://external-preview.redd.it/TrY2--JR6Ec-T-HD_goWuS8aV6_QsvKFhwGHMSLJsI8.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=151e45b71b51b51bcd5671c0262f0ae6a4a49185",
+                        "width": 960,
+                        "height": 504
+                      },
+                      {
+                        "url": "https://external-preview.redd.it/TrY2--JR6Ec-T-HD_goWuS8aV6_QsvKFhwGHMSLJsI8.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=f702b1b21e14fb6e1cae89eb76a6f56aad08eb3b",
+                        "width": 1080,
+                        "height": 567
+                      }
+                    ],
+                    "variants": {},
+                    "id": "1FGfDIGnBiPHY1KL7U5iPHB-FOtmTlLcCrbcw5X1S-0"
+                  }
+                ],
+                "enabled": false
+              },
               "all_awardings": [],
               "awarders": [],
               "media_only": false,
@@ -2150,6 +2198,52 @@
           "is_crosspostable": false,
           "pinned": false,
           "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://external-preview.redd.it/TrY2--JR6Ec-T-HD_goWuS8aV6_QsvKFhwGHMSLJsI8.jpg?auto=webp&amp;v=enabled&amp;s=6eea5ca1e18e4d366f903635fae72348ca888c0a",
+                  "width": 1200,
+                  "height": 630
+                },
+                "resolutions": [
+                  {
+                    "url": "https://external-preview.redd.it/TrY2--JR6Ec-T-HD_goWuS8aV6_QsvKFhwGHMSLJsI8.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=33057ad83479d50e225808a3cce824512f29c5a5",
+                    "width": 108,
+                    "height": 56
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/TrY2--JR6Ec-T-HD_goWuS8aV6_QsvKFhwGHMSLJsI8.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=480ad2aacc5f85c9d051275d88e0e7e00b643b46",
+                    "width": 216,
+                    "height": 113
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/TrY2--JR6Ec-T-HD_goWuS8aV6_QsvKFhwGHMSLJsI8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=cf927e620704115867f597f3c119313961884ba2",
+                    "width": 320,
+                    "height": 168
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/TrY2--JR6Ec-T-HD_goWuS8aV6_QsvKFhwGHMSLJsI8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=46c815f2d5665099cba7936a8b4f363c6f3a370e",
+                    "width": 640,
+                    "height": 336
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/TrY2--JR6Ec-T-HD_goWuS8aV6_QsvKFhwGHMSLJsI8.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=151e45b71b51b51bcd5671c0262f0ae6a4a49185",
+                    "width": 960,
+                    "height": 504
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/TrY2--JR6Ec-T-HD_goWuS8aV6_QsvKFhwGHMSLJsI8.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=f702b1b21e14fb6e1cae89eb76a6f56aad08eb3b",
+                    "width": 1080,
+                    "height": 567
+                  }
+                ],
+                "variants": {},
+                "id": "1FGfDIGnBiPHY1KL7U5iPHB-FOtmTlLcCrbcw5X1S-0"
+              }
+            ],
+            "enabled": false
+          },
           "all_awardings": [],
           "awarders": [],
           "media_only": false,
@@ -2209,7 +2303,7 @@
           "pwls": null,
           "link_flair_css_class": null,
           "downs": 0,
-          "thumbnail_height": 83,
+          "thumbnail_height": 73,
           "top_awarded_type": null,
           "hide_score": false,
           "name": "t3_kbjxy6",
@@ -2236,11 +2330,12 @@
           "approved_by": null,
           "is_created_from_ads_ui": false,
           "author_premium": false,
-          "thumbnail": "https://b.thumbs.redditmedia.com/b_f_2Renj9rbxLMBTBeevp1fCcC7FIXn-vqTaJwE5MI.jpg",
+          "thumbnail": "https://a.thumbs.redditmedia.com/WpDG5ykEthDjFb5KpZY2P2pqea0OZdRMsHtprkxNes4.jpg",
           "edited": false,
           "author_flair_css_class": null,
           "author_flair_richtext": [],
           "gildings": {},
+          "post_hint": "link",
           "content_categories": null,
           "is_self": false,
           "mod_note": null,
@@ -2263,6 +2358,52 @@
           "is_crosspostable": false,
           "pinned": false,
           "over_18": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://external-preview.redd.it/TrY2--JR6Ec-T-HD_goWuS8aV6_QsvKFhwGHMSLJsI8.jpg?auto=webp&amp;v=enabled&amp;s=6eea5ca1e18e4d366f903635fae72348ca888c0a",
+                  "width": 1200,
+                  "height": 630
+                },
+                "resolutions": [
+                  {
+                    "url": "https://external-preview.redd.it/TrY2--JR6Ec-T-HD_goWuS8aV6_QsvKFhwGHMSLJsI8.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=33057ad83479d50e225808a3cce824512f29c5a5",
+                    "width": 108,
+                    "height": 56
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/TrY2--JR6Ec-T-HD_goWuS8aV6_QsvKFhwGHMSLJsI8.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=480ad2aacc5f85c9d051275d88e0e7e00b643b46",
+                    "width": 216,
+                    "height": 113
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/TrY2--JR6Ec-T-HD_goWuS8aV6_QsvKFhwGHMSLJsI8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=cf927e620704115867f597f3c119313961884ba2",
+                    "width": 320,
+                    "height": 168
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/TrY2--JR6Ec-T-HD_goWuS8aV6_QsvKFhwGHMSLJsI8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=46c815f2d5665099cba7936a8b4f363c6f3a370e",
+                    "width": 640,
+                    "height": 336
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/TrY2--JR6Ec-T-HD_goWuS8aV6_QsvKFhwGHMSLJsI8.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=151e45b71b51b51bcd5671c0262f0ae6a4a49185",
+                    "width": 960,
+                    "height": 504
+                  },
+                  {
+                    "url": "https://external-preview.redd.it/TrY2--JR6Ec-T-HD_goWuS8aV6_QsvKFhwGHMSLJsI8.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=f702b1b21e14fb6e1cae89eb76a6f56aad08eb3b",
+                    "width": 1080,
+                    "height": 567
+                  }
+                ],
+                "variants": {},
+                "id": "1FGfDIGnBiPHY1KL7U5iPHB-FOtmTlLcCrbcw5X1S-0"
+              }
+            ],
+            "enabled": false
+          },
           "all_awardings": [],
           "awarders": [],
           "media_only": false,
@@ -2332,9 +2473,9 @@
           "name": "t3_kay2xe",
           "quarantine": false,
           "link_flair_text_color": "dark",
-          "upvote_ratio": 0.71,
+          "upvote_ratio": 0.79,
           "author_flair_background_color": null,
-          "ups": 8,
+          "ups": 10,
           "total_awards_received": 0,
           "media_embed": {},
           "thumbnail_width": 140,
@@ -2348,7 +2489,7 @@
           "secure_media_embed": {},
           "link_flair_text": "Resource",
           "can_mod_post": false,
-          "score": 8,
+          "score": 10,
           "approved_by": null,
           "is_created_from_ads_ui": false,
           "author_premium": false,
@@ -2461,7 +2602,7 @@
           "parent_whitelist_status": "all_ads",
           "stickied": false,
           "url": "https://datasette.io/",
-          "subreddit_subscribers": 1112119,
+          "subreddit_subscribers": 1112144,
           "created_utc": 1607671019,
           "num_crossposts": 0,
           "media": null,
@@ -2573,7 +2714,7 @@
           "parent_whitelist_status": "all_ads",
           "stickied": false,
           "url": "https://sql-murder-mystery.datasette.io/sql-murder-mystery",
-          "subreddit_subscribers": 143751,
+          "subreddit_subscribers": 143757,
           "created_utc": 1576472842,
           "num_crossposts": 0,
           "media": null,
